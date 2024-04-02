@@ -42,5 +42,19 @@ Feel free to delve into my code, notes, and projects. If you have any questions,
 * This repository is primarily for my personal learning and exploration. Think of it as a work in progress, just like my coding skills!
 * The code quality may vary, as I'm still under development (as a programmer, that is!).
 
-**Let's embark on this coding and creative adventure together!**
+**Mission & Values**
 
+> Seek more knowledge, this is the only thing that no one can
+take away from you. I can't promise that I will fulfill
+my mission of leaving a legacy or what I learned for society
+but I promise that I will try."
+
+> "Without hurting anything or anyone, do what you want."
+
+I believe that humanity has not evolved in great leaps (yes, there are outliers) but don't consider yourself one until you are one.
+
+Referencing some animes here remember:
+
+> "Effort always wins over natural gift."
+
+**Let's embark on this coding and creative adventure together! Focusing in build a better future**
